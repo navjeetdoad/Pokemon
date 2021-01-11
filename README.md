@@ -14,7 +14,6 @@ unable to move for the current turn. Wild Storm allows a random chance for the u
 Now, when the user starts up the program, they are first prompted to enter their name and are then given a list of Pokemon they can use. The user can choose up to 4 Pokemon, while the rest of the Pokemon go to the AI. During battle, you can press any of the following numbers to do one of the following:
 <br />
 0. Stats: shows all of your current available Pokemon, their HP, energy, resistance, and weakness.
-<br />
 1. Attack: choose one of your attacks and use it against the enemy Pokemon.
 <br />
 2. Pass: switches your current Pokemon to the next available Pokemon that you possess.
