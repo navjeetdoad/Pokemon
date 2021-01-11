@@ -18,6 +18,8 @@ Now, when the user starts up the program, they are first prompted to enter their
 * Press 2 for Pass: switches your current Pokemon to the next available Pokemon that you possess.
 * Press 3 for Retreat: allows you to switch your current Pokemon for any of your other Pokemon
 
+The battle interface is displayed in the picture above.
+
 ![alt text](https://github.com/navjeetdoad/Pokemon/blob/master/battle.png)
 
-The battle interface is display in the picture above.
+If you defeat all of the enemies Pokemon, the games over and you've won! You've officially become the Pokemon Master! :)
