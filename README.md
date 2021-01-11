@@ -13,16 +13,10 @@ unable to move for the current turn. Wild Storm allows a random chance for the u
 
 Now, when the user starts up the program, they are first prompted to enter their name and are then given a list of Pokemon they can use. The user can choose up to 4 Pokemon, while the rest of the Pokemon go to the AI. During battle, you can press any of the following numbers to do one of the following:
 <br />
-0. Stats: shows all of your current available Pokemon, their HP, energy, resistance, and weakness.
-1. Attack: choose one of your attacks and use it against the enemy Pokemon.
-2. Pass: switches your current Pokemon to the next available Pokemon that you possess.
-3. Retreat: allows you to switch your current Pokemon for any of your other Pokemon
-
-Markup : 0. Stats: shows all of your current available Pokemon, their HP, energy, resistance, and weakness.
-         1. Attack: choose one of your attacks and use it against the enemy Pokemon.
-         2. Pass: switches your current Pokemon to the next available Pokemon that you possess.
-         3. Retreat: allows you to switch your current Pokemon for any of your other Pokemon
-
+* Press 0 for Stats: shows all of your current available Pokemon, their HP, energy, resistance, and weakness.
+* Press 1 for Attack: choose one of your attacks and use it against the enemy Pokemon.
+* Press 2 for Pass: switches your current Pokemon to the next available Pokemon that you possess.
+* Press 3 for Retreat: allows you to switch your current Pokemon for any of your other Pokemon
 
 ![alt text](https://github.com/navjeetdoad/Pokemon/blob/master/battle.png)
 
