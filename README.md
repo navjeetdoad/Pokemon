@@ -21,6 +21,6 @@ Now, when the user starts up the program, they are first prompted to enter their
 <br />
 3. Retreat: allows you to switch your current Pokemon for any of your other Pokemon
 
-![alt text]()
+![alt text](https://github.com/navjeetdoad/Pokemon/blob/master/battle.png)
 
 The battle interface is display in the picture above.
